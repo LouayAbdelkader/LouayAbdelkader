@@ -31,16 +31,17 @@ I fully commit to every project I undertake and strive to actively contribute to
  **<h3 align="left">Skills</h3>**
 
 <table style="width: 100%; border: 0px solid white;">
+  
   <tr>
-    <td colspan="6" align="center"><b>Network, OS & Cloud Administration</b></td>
+    <td colspan="6" align="center"><b>Network, Cloud & System Administration</b></td>
   </tr>
   <tr>
+    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white" height="28" alt="Azure"/></td>
     <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="28" alt="Linux"/></td>
     <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white" height="28" alt="Shell"/></td>
     <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white" height="28" alt="Cisco"/></td>
     <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/GNS3-000000?logo=gns3&logoColor=white" height="28" alt="GNS3"/></td>
     <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" height="28" alt="Wireshark"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" height="28" alt="AWS"/></td>
   </tr>
 
   <tr>
@@ -56,27 +57,33 @@ I fully commit to every project I undertake and strive to actively contribute to
   </tr>
 
   <tr>
-    <td colspan="6" align="center"><b>Programming & Databases</b></td>
+    <td colspan="6" align="center"><b>Backend & Programming</b></td>
   </tr>
   <tr>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="28" alt="C"/></td>
     <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java"/></td>
+    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?logo=spring-boot&logoColor=green" height="28" alt="Spring Boot"/></td>
     <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB"/></td>
+    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="28" alt="C"/></td>
     <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL"/></td>
+    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB"/></td>
   </tr>
 
   <tr>
-    <td colspan="6" align="center"><b>Tools & AI</b></td>
+    <td colspan="6" align="center"><b>AI & Data Science</b></td>
   </tr>
   <tr>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white" height="28" alt="IntelliJ IDEA"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="28" alt="Pandas"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="28" alt="TensorFlow"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="28" alt="Scikit-learn"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white" height="28" alt="Eclipse"/></td>
+    <td colspan="2" style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="28" alt="Pandas"/></td>
+    <td colspan="2" style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="28" alt="TensorFlow"/></td>
+    <td colspan="2" style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="28" alt="Scikit-learn"/></td>
+  </tr>
+
+  <tr>
+    <td colspan="6" align="center"><b>IDEs & Tools</b></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code"/></td>
+    <td colspan="2" style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white" height="28" alt="IntelliJ IDEA"/></td>
+    <td colspan="2" style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white" height="28" alt="Eclipse"/></td>
   </tr>
 </table>
 

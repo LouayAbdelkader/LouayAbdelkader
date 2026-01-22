@@ -28,66 +28,65 @@ I fully commit to every project I undertake and strive to actively contribute to
 - 🌱 I'm currently learning: **Network And Telecommunications**
 - 💬 Ask me about: **Network administration, Cloud and Cybersecurity**
 
- **<h3 align="left">Skills</h3>**
+---
 
+**<h3 align="left">☁️ Network, Cloud & OS</h3>**
 <table style="width: 100%; border: 0px solid white;">
-  
   <tr>
-    <td colspan="6" align="center"><b>Network, Cloud & System Administration</b></td>
-  </tr>
-  <tr>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white" height="28" alt="Azure"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="28" alt="Linux"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white" height="28" alt="Shell"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white" height="28" alt="Cisco"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/GNS3-000000?logo=gns3&logoColor=white" height="28" alt="GNS3"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" height="28" alt="Wireshark"/></td>
-  </tr>
-
-  <tr>
-    <td colspan="6" align="center"><b>DevOps & Virtualization</b></td>
-  </tr>
-  <tr>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="28" alt="Kubernetes"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="28" alt="Jenkins"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="28" alt="Git"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white" height="28" alt="VMware"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" height="28" alt="Ansible"/></td>
-  </tr>
-
-  <tr>
-    <td colspan="6" align="center"><b>Backend & Programming</b></td>
-  </tr>
-  <tr>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?logo=spring-boot&logoColor=green" height="28" alt="Spring Boot"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="28" alt="C"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL"/></td>
-    <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB"/></td>
-  </tr>
-
-  <tr>
-    <td colspan="6" align="center"><b>AI & Data Science</b></td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="28" alt="Pandas"/></td>
-    <td colspan="2" style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="28" alt="TensorFlow"/></td>
-    <td colspan="2" style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="28" alt="Scikit-learn"/></td>
-  </tr>
-
-  <tr>
-    <td colspan="6" align="center"><b>IDEs & Tools</b></td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code"/></td>
-    <td colspan="2" style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white" height="28" alt="IntelliJ IDEA"/></td>
-    <td colspan="2" style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white" height="28" alt="Eclipse"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white" height="28" alt="Azure"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="28" alt="Linux"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white" height="28" alt="Shell"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white" height="28" alt="Cisco"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/GNS3-000000?logo=gns3&logoColor=white" height="28" alt="GNS3"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" height="28" alt="Wireshark"/></td>
   </tr>
 </table>
 
- **<h3 align="left">GitHub Stats</h3>**
+**<h3 align="left">♾️ DevOps & Virtualization</h3>**
+<table style="width: 100%; border: 0px solid white;">
+  <tr>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="28" alt="Kubernetes"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="28" alt="Jenkins"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="28" alt="Git"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white" height="28" alt="VMware"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" height="28" alt="Ansible"/></td>
+  </tr>
+</table>
+
+**<h3 align="left">☕ Backend & Databases</h3>**
+<table style="width: 100%; border: 0px solid white;">
+  <tr>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?logo=spring-boot&logoColor=green" height="28" alt="Spring Boot"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="28" alt="C"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB"/></td>
+  </tr>
+</table>
+
+**<h3 align="left">🤖 AI & Data Science</h3>**
+<table style="width: 100%; border: 0px solid white;">
+  <tr>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="28" alt="Pandas"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="28" alt="TensorFlow"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="28" alt="Scikit-learn"/></td>
+  </tr>
+</table>
+
+**<h3 align="left">🛠️ IDEs & Tools</h3>**
+<table style="width: 100%; border: 0px solid white;">
+  <tr>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white" height="28" alt="IntelliJ IDEA"/></td>
+    <td style="text-align: center; border: 0px; padding: 10px;"><img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white" height="28" alt="Eclipse"/></td>
+  </tr>
+</table>
+
+---
+
+**<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LouayAbdelkader&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />

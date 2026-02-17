@@ -18,7 +18,7 @@
   <a href="https://github.com/LouayAbdelkader" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 8px"></a>
 </p>
 
- **<h3 align="center">🚀 I am a recent graduate in Networks and Computer Systems (RSI) from ISET Charguia and am currently continuing my studies at INSAT in the 3rd year to obtain the National Engineering Diploma in Computer Networks and Telecommunications.
+ **<h3 align="center">🚀 I am a recent graduate in Networks and Computer Systems from ISET Charguia and am currently continuing my studies at INSAT in the 3rd year to obtain the National Engineering Diploma in Computer Networks and Telecommunications.
 I am motivated to join a company through a work-study program to further develop my skills in DevOps and cybersecurity. I am curious, diligent, and comfortable working in a team environment.
 I fully commit to every project I undertake and strive to actively contribute to dynamic technical environments.</h3>**
 

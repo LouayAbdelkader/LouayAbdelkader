@@ -86,9 +86,21 @@ I fully commit to every project I undertake and strive to actively contribute to
 
 ---
 
-**<h3 align="left">GitHub Stats</h3>**
+<h3 align="center">📊 GitHub Stats</h3>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LouayAbdelkader&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LouayAbdelkader&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LouayAbdelkader&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=27" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouayAbdelkader&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LouayAbdelkader&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LouayAbdelkader&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LouayAbdelkader&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>

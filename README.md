@@ -24,7 +24,7 @@ I fully commit to every project I undertake and strive to actively contribute to
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Enterprise Network With GNS3 🌐**
+- 💼 I'm currently working on: **GitOpd Platform**
 - 🌱 I'm currently learning: **Network And Telecommunications**
 - 💬 Ask me about: **Network administration, Cloud and Cybersecurity**
 

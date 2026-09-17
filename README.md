@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0089D6,50:326CE5,100:00C4B4&height=200&section=header&text=Mohamed%20Louay%20Abdelkader&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20%26%20Telecommunications%20Engineering%20Student&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00C4B4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Engineering+Student+%40+INSAT;DevOps+%26+Cybersecurity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00C4B4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Engineering+Student+%40+INSAT;DevOps+%26+Cloud Computing" alt="Typing SVG" />
 
 </div>
 

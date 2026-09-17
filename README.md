@@ -7,9 +7,7 @@
 </div>
 
 <p align="center">
-📍 Mégrine, Ben Arous, Tunisie &nbsp;|&nbsp;
 ✉️ <a href="mailto:louayyabdelkader@gmail.com">louayyabdelkader@gmail.com</a> &nbsp;|&nbsp;
-📞 +216 25 318 266
 </p>
 
 <p align="center">

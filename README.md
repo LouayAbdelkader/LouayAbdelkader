@@ -1,8 +1,12 @@
 <div align="center">
 
-# Mohamed Louay Abdelkader
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Louay%20Abdelkader&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-**Cloud & DevOps Engineer** — Étudiant ingénieur en Réseaux & Télécommunications à l'INSAT
+<a href="https://github.com/LouayAbdelkader">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=780&lines=Cloud+%26+DevOps+Engineer;GitOps+Enthusiast;Kubernetes+Engineer;Cloud+Infrastructure+Builder;DevSecOps+Explorer" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-louay--abdelkader-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louay-abdelkader/)
 [![Email](https://img.shields.io/badge/Email-louayyabdelkader-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louayyabdelkader@gmail.com)
@@ -13,43 +17,52 @@
 
 ---
 
-## 👋 À propos
+## 👋 About Me
 
-Élève-ingénieur en 4ème année à l'INSAT (Réseaux Informatiques et Télécommunications), je me spécialise en **DevOps** et **Cloud Computing**. Mon background réseaux (OSPF, VLAN, HSRP, LACP) me donne une bonne compréhension des couches basses, que j'applique aujourd'hui aux infrastructures cloud-native : Kubernetes, GitOps, CI/CD et observabilité.
+I'm a final-year engineering student in Networks & Telecommunications at INSAT (Tunisia), specializing in **DevOps** and **Cloud Computing**. My networking background (OSPF, VLAN, HSRP, LACP) gives me a solid understanding of the lower layers, which I now apply to cloud-native infrastructure: Kubernetes, GitOps, CI/CD, and observability.
 
-Titulaire de la certification **LPIC-1**.
+**LPIC-1** certified.
 
-## 🛠️ Stack technique
+## 🛠️ Tech Stack
 
-**Langages**
+**Languages**
 ![](https://skillicons.dev/icons?i=python,c,java,bash&theme=dark)
 
 **DevOps & Cloud**
 ![](https://skillicons.dev/icons?i=kubernetes,docker,jenkins,githubactions,ansible,terraform,linux,git,aws,azure&theme=dark)
 
-**Backend & Bases de données**
+**Backend & Databases**
 ![](https://skillicons.dev/icons?i=spring,flask,postgres,mongodb,mysql&theme=dark)
 
-**Observabilité :** Prometheus · Grafana · Loki · Telegraf · InfluxDB · Alertmanager
-**Sécurité :** Trivy · Falco · Wazuh
-**Réseaux :** Cisco · GNS3 · EVE-NG · OSPF · HSRP · LACP · VLAN
+**Observability:** Prometheus · Grafana · Loki · Telegraf · InfluxDB · Alertmanager
+**Security:** Trivy · Falco · Wazuh
+**Networking:** Cisco · GNS3 · EVE-NG · OSPF · HSRP · LACP · VLAN
 
-## 🚀 Projets
+## 🚀 Projects
 
-- **OpsPilot** — Plateforme GitOps d'automatisation et de déploiement multi-environnements (Kubernetes, Argo CD, Docker, Kustomize, GitHub Actions, Prometheus, Grafana, Trivy, Falco)
-- **Plateforme DevOps Intelligente et Sécurisée** — CI/CD Jenkins avec sécurité multicouche (Wazuh, Falco, Trivy) et agent IA (PPO) pour l'optimisation dynamique des ressources Kubernetes
-- **Monitoring Kubernetes/Réseau (TIG Stack)** — Supervision temps réel avec Telegraf, InfluxDB, Prometheus et Grafana
-- **Architecture VoIP multi-sites** — Téléphonie sur IP entre deux sites distants sous GNS3, routage OSPF
-- **Assistant Pédagogique Intelligent** — Analyse et recherche contextuelle dans des supports de cours (Python, NLP, Spring Boot)
+- **OpsPilot** — GitOps-based automation and multi-environment deployment platform (Kubernetes, Argo CD, Docker, Kustomize, GitHub Actions, Prometheus, Grafana, Trivy, Falco)
+- **Intelligent & Secure DevOps Platform** — Jenkins CI/CD with multi-layer security (Wazuh, Falco, Trivy) and an AI agent (PPO) for dynamic Kubernetes resource optimization
+- **Kubernetes/Network Monitoring (TIG Stack)** — Real-time monitoring with Telegraf, InfluxDB, Prometheus, and Grafana
+- **Multi-Site VoIP Architecture** — VoIP telephony between two remote sites under GNS3, with OSPF routing
+- **Intelligent Teaching Assistant** — Contextual analysis and semantic search over course materials (Python, NLP, Spring Boot)
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LouayAbdelkader&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LouayAbdelkader&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouayAbdelkader&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=LouayAbdelkader&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
+
+> **Note:** the stats cards above are powered by the public `github-readme-stats` demo service, which is community-run and occasionally rate-limited/down. If a card doesn't load, refresh in a few minutes — for guaranteed uptime you'd need to deploy your own instance (see the [project's docs](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own)).
 
 ## 📫 Contact
 
 - 📧 louayyabdelkader@gmail.com
 - 💼 [linkedin.com/in/louay-abdelkader](https://www.linkedin.com/in/louay-abdelkader/)
-- 📍 Mégrine, Ben Arous, Tunisie
+- 📍 Mégrine, Ben Arous, Tunisia
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />

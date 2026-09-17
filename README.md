@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Louay%20Abdelkader&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18" width="100%" alt="header" />
+# Mohamed Louay Abdelkader
 
 <a href="https://github.com/LouayAbdelkader">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=780&lines=Cloud+%26+DevOps+Engineer;GitOps+Enthusiast;Kubernetes+Engineer;Cloud+Infrastructure+Builder;DevSecOps+Explorer" alt="Typing SVG" />
@@ -50,19 +50,15 @@ I'm a final-year engineering student in Networks & Telecommunications at INSAT (
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LouayAbdelkader&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouayAbdelkader&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=LouayAbdelkader&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=LouayAbdelkader&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=LouayAbdelkader&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
-> **Note:** the stats cards above are powered by the public `github-readme-stats` demo service, which is community-run and occasionally rate-limited/down. If a card doesn't load, refresh in a few minutes — for guaranteed uptime you'd need to deploy your own instance (see the [project's docs](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own)).
 
 ## 📫 Contact
 
 - 📧 louayyabdelkader@gmail.com
 - 💼 [linkedin.com/in/louay-abdelkader](https://www.linkedin.com/in/louay-abdelkader/)
 - 📍 Mégrine, Ben Arous, Tunisia
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />

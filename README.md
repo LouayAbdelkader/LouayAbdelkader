@@ -61,4 +61,4 @@ I'm a 4th-year engineering student in Networks & Telecommunications at INSAT (Tu
 
 - 📧 louayyabdelkader@gmail.com
 - 💼 [linkedin.com/in/louay-abdelkader](https://www.linkedin.com/in/louay-abdelkader/)
-- 📍 Mégrine, Ben Arous, Tunisia
+- 📍 Ben Arous, Tunisia

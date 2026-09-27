@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I'm a final-year engineering student in Networks & Telecommunications at INSAT (Tunisia), specializing in **DevOps** and **Cloud Computing**. My networking background (OSPF, VLAN, HSRP, LACP) gives me a solid understanding of the lower layers, which I now apply to cloud-native infrastructure: Kubernetes, GitOps, CI/CD, and observability.
+I'm a 4th-year engineering student in Networks & Telecommunications at INSAT (Tunisia), specializing in **DevOps** and **Cloud Computing**. My networking background (OSPF, VLAN, HSRP, LACP) gives me a solid understanding of the lower layers, which I now apply to cloud-native infrastructure: Kubernetes, GitOps, CI/CD, and observability.
 
 **LPIC-1** certified.
 
